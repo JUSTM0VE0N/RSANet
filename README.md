@@ -1,5 +1,5 @@
 # Recursive Self-Attention Modules-Based Network for Panchromatic and Multispectral Image Fusion
-- Code for the paper: "Recursive Self-Attention Modules-Based Network for Panchromatic and Multispectral Image Fusion", JSTARS 2023. 
+- Code for the paper: "Recursive Self-Attention Modules-Based Network for Panchromatic and Multispectral Image Fusion", JSTARS 2023. [RSANet](https://ieeexplore.ieee.org/document/10294268)
 - State-of-the-art (SOTA) performance of remote sensing image fusion.
 
 ![RSANet](https://github.com/JUSTM0VE0N/RSANet/blob/main/charts/Fig%201.png#pic_center)
